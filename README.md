@@ -20,3 +20,6 @@ https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history some historical 
 https://www.kaggle.com/danofer/skillcraft dataset of ladder games with league distinction
 https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis some replay analysis
 
+demonstration
+----------------
+https://www.youtube.com/watch?v=cUTMhmVh1qs
