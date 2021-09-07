@@ -23,3 +23,6 @@ https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis some replay analy
 demonstration
 ----------------
 https://www.youtube.com/watch?v=cUTMhmVh1qs
+
+
+<img width="1440" alt="Snímek obrazovky 2021-09-07 v 15 08 05" src="https://user-images.githubusercontent.com/3868751/132359108-f3732651-4a3a-4c69-8af6-4af418e55372.png">
