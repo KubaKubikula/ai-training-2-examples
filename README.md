@@ -51,6 +51,8 @@ https://github.com/geohot/configuration
 
 https://patents.google.com/?q=neural+network&oq=neural+network
 
+https://www.graphcore.ai/
+
 matematics to understand
 ---------------------------
 operace s maticema
