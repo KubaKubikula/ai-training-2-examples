@@ -66,3 +66,5 @@ vektory
 non usefull shit
 -------------------
 https://en.wikipedia.org/wiki/Systolic_array
+
+https://ddi-dev.com/blog/programming/average-python-developer-salary-in-the-usa-europe-and-other-world-countries/
