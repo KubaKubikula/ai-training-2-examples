@@ -54,6 +54,9 @@ https://patents.google.com/?q=neural+network&oq=neural+network
 matematics to understand
 ---------------------------
 operace s maticema
+
 2 derivace 
+
 vektory
+
 + operace s těmahle srajdama
