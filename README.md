@@ -44,4 +44,7 @@ https://github.com/deepmind/pysc2/blob/master/docs/environment.md
 somthing maybe useful
 ------------------------
 https://www.graphviz.org/gallery/
+
 https://playground.tensorflow.org/
+
+https://github.com/geohot/configuration
