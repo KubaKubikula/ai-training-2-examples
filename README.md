@@ -38,3 +38,4 @@ TPU Cost Per Hour: $32
 Total Cost: $12,976,128
 
 https://pypi.org/project/virtualenv/
+https://en.wikipedia.org/wiki/Deterministic_system
