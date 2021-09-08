@@ -50,3 +50,6 @@ https://playground.tensorflow.org/
 https://github.com/geohot/configuration
 
 https://patents.google.com/?q=neural+network&oq=neural+network
+
+matematics to understand
+---------------------------
