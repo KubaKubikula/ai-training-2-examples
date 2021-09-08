@@ -60,3 +60,7 @@ operace s maticema
 vektory
 
 + operace s těmahle srajdama
+
+non usefull shit
+-------------------
+https://en.wikipedia.org/wiki/Systolic_array
