@@ -36,3 +36,5 @@ Hours: 44 days * 24 hours per day
 Number of TPU: 32
 TPU Cost Per Hour: $32
 Total Cost: $12,976,128
+
+https://pypi.org/project/virtualenv/
