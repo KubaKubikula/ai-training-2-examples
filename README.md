@@ -73,3 +73,5 @@ https://en.wikipedia.org/wiki/Universal_basic_income
 how much money i need before it happen
 
 https://www.online-phd-programs.org/doctorate-computer-science-expectations/
+
+https://lexfridman.com/
