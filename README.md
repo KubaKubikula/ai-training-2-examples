@@ -75,3 +75,5 @@ how much money i need before it happen
 https://www.online-phd-programs.org/doctorate-computer-science-expectations/
 
 https://lexfridman.com/
+
+https://www.toptal.com/data-science/graph-data-science-python-networkx
