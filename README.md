@@ -57,6 +57,8 @@ matematics to understand
 ---------------------------
 operace s maticema
 
+https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/matrix-algebra/operations-with-matrices
+
 2 derivace 
 
 vektory
