@@ -60,6 +60,7 @@ operace s maticema
 2 derivace 
 
 vektory
+https://mathinsight.org/vectors_cartesian_coordinates_2d_3d
 
 + operace s těmahle srajdama
 
