@@ -59,6 +59,8 @@ operace s maticema
 
 https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/matrix-algebra/operations-with-matrices
 
+https://www.mathbootcamps.com/matrix-transformations/
+
 2 derivace 
 
 vektory
