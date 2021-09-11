@@ -55,6 +55,10 @@ https://www.graphcore.ai/
 
 matematics to understand
 ---------------------------
+context tree weighting
+
+https://web.stanford.edu/class/ee477/lectures2011/lecture4.pdf
+
 operace s maticema
 
 https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/matrix-algebra/operations-with-matrices
