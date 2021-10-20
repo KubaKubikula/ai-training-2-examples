@@ -1,5 +1,7 @@
 # ai-training-2-examples
 
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
 Gym with games:
 https://gym.openai.com/docs/
 
@@ -89,3 +91,5 @@ https://www.online-phd-programs.org/doctorate-computer-science-expectations/
 https://lexfridman.com/
 
 https://www.toptal.com/data-science/graph-data-science-python-networkx
+
+https://www.google.com/search?q=vpn+server+instalation&sxsrf=AOaemvIv_SGOdxL7c0dt5PYw9rZTgxfCqw%3A1633895682634&ei=AkVjYf-YJovUUc-5s-AK&ved=0ahUKEwj_oY3ez8DzAhULahQKHc_cDKwQ4dUDCA4&uact=5&oq=vpn+server+instalation&gs_lcp=Cgdnd3Mtd2l6EAM6BAgjECc6BQguEIAEOgUIABCABDoLCC4QgAQQxwEQrwE6BAgAEEM6BQgAEMsBSgQIQRgAUJFrWPiLAWD3jwFoAHABeACAAZUBiAGyEpIBBDguMTSYAQCgAQHAAQE&sclient=gws-wiz
