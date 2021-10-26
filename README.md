@@ -1,5 +1,12 @@
 # ai-training-2-examples
 
+heatmap
+--------
+
+https://seaborn.pydata.org/generated/seaborn.heatmap.html
+
+
+
 https://support.google.com/cloud-certification/#topic=9433464
 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
