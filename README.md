@@ -1,5 +1,7 @@
 # ai-training-2-examples
 
+https://support.google.com/cloud-certification/#topic=9433464
+
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 Gym with games:
