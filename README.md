@@ -114,6 +114,8 @@ tzn že každá třída má mít jenom funce které spolu souvisí (tzn že tře
 
 
 - testing (typy testů a popsat)
+základ je funnkcionální testy (unit, integrační AB testy regresní testování atd) a pak nefunkcionální (performance testing load testing atd)
+
 - CI/CD
 - dedicnost
 - databaze (nerelacni nebo co to bylo), a nejake ty normalizace (nebo normy)
