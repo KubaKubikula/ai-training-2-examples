@@ -102,3 +102,15 @@ https://lexfridman.com/
 https://www.toptal.com/data-science/graph-data-science-python-networkx
 
 https://www.google.com/search?q=vpn+server+instalation&sxsrf=AOaemvIv_SGOdxL7c0dt5PYw9rZTgxfCqw%3A1633895682634&ei=AkVjYf-YJovUUc-5s-AK&ved=0ahUKEwj_oY3ez8DzAhULahQKHc_cDKwQ4dUDCA4&uact=5&oq=vpn+server+instalation&gs_lcp=Cgdnd3Mtd2l6EAM6BAgjECc6BQguEIAEOgUIABCABDoLCC4QgAQQxwEQrwE6BAgAEEM6BQgAEMsBSgQIQRgAUJFrWPiLAWD3jwFoAHABeACAAZUBiAGyEpIBBDguMTSYAQCgAQHAAQE&sclient=gws-wiz
+
+Backend theory
+- solid
+- testing (typy testů a popsat)
+- dedicnost
+- databaze (nerelacni nebo co to bylo), a nejake ty normalizace (nebo normy)
+- rest api (a teorie debilní)
+- docker (to nevim jestli tam bude tasi ne)
+- python 
+
+
+
