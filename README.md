@@ -105,7 +105,12 @@ https://www.google.com/search?q=vpn+server+instalation&sxsrf=AOaemvIv_SGOdxL7c0d
 
 Backend theory
 - solid
+1 Single-responsibility principle
+
+
+
 - testing (typy testů a popsat)
+- CI/CD
 - dedicnost
 - databaze (nerelacni nebo co to bylo), a nejake ty normalizace (nebo normy)
 - rest api (a teorie debilní)
