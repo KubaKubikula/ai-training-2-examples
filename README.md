@@ -106,7 +106,11 @@ https://www.google.com/search?q=vpn+server+instalation&sxsrf=AOaemvIv_SGOdxL7c0d
 Backend theory
 - solid
 1 Single-responsibility principle
-
+tzn že každá třída má mít jenom funce které spolu souvisí (tzn že třeba nebude tisknout a zágoveň generovat dokumenty) - vlastně jednu funkci změním a ovlivní to druhou
+- open closed pri. - to je že třída by měla být rozšířitelná ale ne modifikovatelná
+- liskov (to je myslim že třída by neměla vycházet ze třídy kde jsou metody které nepoužíva)
+- interface segregation (to je to same akorat o rozhraních )
+- dependency inversion - high depends on high func low on low
 
 
 - testing (typy testů a popsat)
