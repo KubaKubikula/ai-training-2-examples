@@ -124,6 +124,7 @@ základ je funnkcionální testy (unit, integrační AB testy regresní testová
 - rest api (a teorie debilní)
 - docker (to nevim jestli tam bude tasi ne)
 - python 
+- https://refactoring.guru/design-patterns/catalog
 
 
 
